@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arbiZaqTransaction", "arbiZaqTransaction\arbiZaqTransaction.csproj", "{C61405BB-E510-46B7-A1B4-436C9DEC7A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61405BB-E510-46B7-A1B4-436C9DEC7A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61405BB-E510-46B7-A1B4-436C9DEC7A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61405BB-E510-46B7-A1B4-436C9DEC7A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61405BB-E510-46B7-A1B4-436C9DEC7A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57951C0-D3FE-4FE5-A78B-446E71AD6C0C}
+	EndGlobalSection
+EndGlobal

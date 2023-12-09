@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-arbiZaqTransaction-d70df392-fe0e-4709-96c8-d1816a80226d</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Binance.Net" Version="9.1.7" />
+		<PackageReference Include="Bybit.Net" Version="3.2.3" />
+		<PackageReference Include="Huobi.Net" Version="5.0.4" />
+		<PackageReference Include="JK.OKX.Net" Version="1.4.3" />
+		<PackageReference Include="Kucoin.Net" Version="5.0.7" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.24" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.10">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+</Project>
